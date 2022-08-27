@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="app_name">Tanihara</string>
+    <string name="facebook_app_id">593393485562098</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">c316789dbfb6d6f86d286f91481a04ab</string>
+
+</resource>

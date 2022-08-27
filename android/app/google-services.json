@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065862819020",
+    "project_id": "tanihara-89c0b",
+    "storage_bucket": "tanihara-89c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065862819020:android:d1269f3568db68658a6669",
+        "android_client_info": {
+          "package_name": "com.example.tanihara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065862819020-v7urs75j87cft7f55ir0vvvabih0vcts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanihara",
+            "certificate_hash": "dbbcdb4e9dc4e5057957b814dbf8b77dd7691da3"
+          }
+        },
+        {
+          "client_id": "1065862819020-kibjanb43bo2r73digv9svj7c22hrimm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lh4kl6jrt8g9CB-4EUuoJlXoeQFXNno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065862819020-kibjanb43bo2r73digv9svj7c22hrimm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
